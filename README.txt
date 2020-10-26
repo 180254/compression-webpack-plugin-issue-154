@@ -1,5 +1,6 @@
 Related issue:
  - https://github.com/webpack-contrib/compression-webpack-plugin/issues/154
+   https://github.com/webpack-contrib/compression-webpack-plugin/pull/209
 
 Reproduction steps:
 1. Install dependencies: execute "npm install" or "yarn install".
